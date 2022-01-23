@@ -1,4 +1,29 @@
-# xp_CAPTCHA(瞎跑-白嫖版)
+# xp_CAPTCHA(ddddocr白嫖版)
+
+
+修改为使用ddddocr识别，对python版本没有原先那么多的要求了 目前尝试过3.7 3.8 3.9 
+
+可事先使用ddddocr识别相关验证码，查看识别效果再选择是否使用该ocr
+
+
+### 安装
+
+环境需求：python3（ddddocr支持啥就能用啥。。） ； ddddocr  ；  jython（已包含在仓库中）
+
+```
+pip install ddddocr
+```
+
+只需要ddddocr这一个
+
+
+以下为原作者的readme描述
+
+
+
+
+
+
 
 * 若要准确率更高，请用 https://github.com/smxiazi/xp_CAPTCHA （这个调用别人商业成熟的验证码识别接口）
 
