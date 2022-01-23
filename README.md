@@ -8,16 +8,16 @@
 
 ### 安装
 
-环境需求：python3（ddddocr支持啥就能用啥。。） ； ddddocr  ；  jython（已包含在仓库中）
+环境需求：python3（ddddocr支持啥就能用啥。。） ###  ddddocr   #### jython（已包含在仓库中，不用网上到处找啦）
 
 ```
 pip install ddddocr
 ```
 
-只需要ddddocr这一个
+python库只需要ddddocr这一个
 
 
-以下为原作者的readme描述
+以下为原作者的readme描述###########################################################################################
 
 
 
